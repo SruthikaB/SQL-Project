@@ -1,5 +1,6 @@
 # 🍕PIZZA SALES ANALYSIS USING MYSQL 
 
+SNAPSHORT OF 1st PAGE
 ![image](https://github.com/user-attachments/assets/0ea95c78-f3c4-4c0a-af04-60d4d2067a53)
 
 This project allowed me to combine my passion for data analytics with practical, real-world applications to drive informed decisions.
