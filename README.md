@@ -1,5 +1,7 @@
 # 🍕PIZZA SALES ANALYSIS USING MYSQL 
 
+![image](https://github.com/user-attachments/assets/0ea95c78-f3c4-4c0a-af04-60d4d2067a53)
+
 This project allowed me to combine my passion for data analytics with practical, real-world applications to drive informed decisions.
 
 I used MySQL to analyze pizza sales dataset, demonstrating my ability to work with relational databases and extract actionable insights that support business decision-making.
